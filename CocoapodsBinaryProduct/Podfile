@@ -1,0 +1,4 @@
+target 'CocoapodsBinaryProduct' do
+pod 'AFNetworking', '~> 1.0'
+pod 'SubModule1', :path => '../SubModule/SubModule1/'
+end
